@@ -119,7 +119,7 @@ rief history
     - two new SC-style lessons created (and waiting for contributors)
         
 * to show on slides:
-    - Paris map with insitutions with hosts logos?
+    - Paris map with institutions with hosts logos?
     - photos
     - infographics with stats (number of participants, gender distribution, field distribution, stage of career, how many said that the workshop was useful and would recommend it to friends?)
     - sample feedback, results of surveys, testimonials
