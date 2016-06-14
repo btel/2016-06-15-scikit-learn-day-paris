@@ -2,3 +2,16 @@
     border: none;
     box-shadow: none;
 }
+
+.reveal section .stats {
+    font-size: 200%;
+    font-family: courier;
+}
+
+.reveal section ul {
+    list-style-type: none;
+}
+
+.reveal section ul li {
+    margin-bottom: 40px;
+}
