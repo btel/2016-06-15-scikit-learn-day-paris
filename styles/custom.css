@@ -3,15 +3,15 @@
     box-shadow: none;
 }
 
-.reveal section .stats {
+.reveal section .big-number {
     font-size: 200%;
     font-family: courier;
 }
 
-.reveal section ul {
+.reveal section ul.stats {
     list-style-type: none;
 }
 
-.reveal section ul li {
+.reveal section ul.stats li {
     margin-bottom: 40px;
 }

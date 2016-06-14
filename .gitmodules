@@ -1,3 +1,6 @@
 [submodule "reveal.js"]
 	path = reveal.js
 	url = git@github.com:hakimel/reveal.js.git
+[submodule "pages/python-novice-inflammation"]
+	path = pages/python-novice-inflammation
+	url = https://github.com/swcarpentry/python-novice-inflammation
