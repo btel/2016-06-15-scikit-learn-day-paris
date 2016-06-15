@@ -41,9 +41,9 @@
      inkscape:window-height="1050"
      id="namedview949"
      showgrid="false"
-     inkscape:zoom="1.2841382"
-     inkscape:cx="386.48409"
-     inkscape:cy="608.51007"
+     inkscape:zoom="0.84063051"
+     inkscape:cx="137.45411"
+     inkscape:cy="411.00493"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -51,7 +51,22 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="572.18956,306.91249"
+       id="guide3401" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="239.10624,681.63122"
+       id="guide3403" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="899.32496,599.54997"
+       id="guide3405" />
+  </sodipodi:namedview>
   <defs
      id="defs4"
      style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
@@ -1606,7 +1621,7 @@
       </g>
       <g
          id="text_27"
-         transform="translate(10.319492,4.5775021)"
+         transform="translate(3.4571654,2.9775021)"
          style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
         <!-- Gif Workshop - Field -->
         <defs
@@ -2092,7 +2107,7 @@
       </g>
       <g
          id="text_27-7"
-         transform="translate(510.06576,-27.239865)"
+         transform="translate(501.97327,-27.239865)"
          style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
         <!-- Gif Workshop - Field -->
         <defs
@@ -2503,7 +2518,7 @@
       </g>
       <g
          style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         transform="translate(239.57679,386.19788)"
+         transform="translate(250.34102,384.29455)"
          id="g9736">
         <!-- Gif Workshop - Field -->
         <defs
