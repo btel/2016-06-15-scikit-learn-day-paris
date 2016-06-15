@@ -89,6 +89,7 @@ Abstract:
         + instructors are encouraged to adapt the materials for their needs and contribute back their changes
     - communication: blog, mailing lists, Github issue tracker, videoconferences, in-person meetings
     - hierachical (local SC community, global community, advisory boards etc.)
+    * shares some of its weaknesses (importance of project leads, lengthy discussions about "technicalities")
 
 * SC Differences:
     - teaching as enacted skill and as such it requires physical presence (video recordings are tested):
@@ -112,6 +113,10 @@ Abstract:
     - infographics with stats (number of participants, gender distribution, field distribution, stage of career, how many said that the workshop was useful and would recommend it to friends?)
     - sample feedback, results of surveys, testimonials
         + “I had the chance to work with some of the participants after the workshop. Although, I do see that their knowledge and confidence with bash, git or python improved, after the course they would go back to their original habits of running their analysis manually and keeping versions of their files in directories (or commenting un-used/experimental code). There is still much work to do to enhance the retention of the information and putting it in practice”
+
+* problems:
+    - different levels of participants
+    - some lessons might be motivated with better (domain-specific) examples,
 
 * how to join us? how to organise a workshop? 
     * join our mailing list, GH organisation
