@@ -19,6 +19,7 @@ Abstract:
 * international organisation whose mission is to help scientists who are programming badly to program better,
 * brief history
     * inititated in 1998 by Greg Wilson as week-long workshops for LANL. First materials publisehd in 2004. 
+    * most scientists don't get formal training in best practices of software engineering, yet they program and use advanced computational strategies
     - "It grew out of frustration he [Greg Wilson] had working with scientists who wanted to run before they could walk, i.e., to prallelize complex programs that were not broken down into self-contained functions, that did not have any automated tests and that wre not under version control"
     - "I started SC because I wanted to share solutions to problems I encountered myself and to learn from others about their problems and solution. At the beginning I tried to adapt and teach about ‘best practices’ of software engienneering like object-oriented programming and design patters (not being software engineer myself)."
     - I co-organised summer school 'Advanced Scientific Programming in Python’ in Berlin in 2009, since then it became an annual event
@@ -26,20 +27,19 @@ Abstract:
 * other common problems:
     - repeat the same analysis by hand on tens of files and save the results in spreadsheet or word document.
     - copy files and block of code as a form of 're-use' and versioning.
-    - trouble to collaborate, because of lack of means to share the code.
+    - use emails to send new versions of code 
 * therefore SC focuses now on 2-day workshops (introduced in 2012) -- 30% of effort give 70% of scientific computing literacy
 
 * today SC focuses on best practices:
     - automation
     - version control
-    - programming
-    * collaboration and reproducibility
-    * core lessons
+    - designing re-usable programs
+    - collaboration and reproducibility
+    - core lessons
 
 * The foundation was set up in 2014.
 
 * recently Data Carpentry was created whose mission is to help scientists manage and analyze their data
-* SC publications (peer-reviewed papers and evaluation reports)
 
 ## Typical workshop (3 min):
 (I plan to show the webpage and explain a bit about the schedule, installation etc. However to keep it quick, I may just emphasise differences from standard programming training classes)
