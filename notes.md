@@ -48,7 +48,6 @@ Abstract:
     * teach basics for beginners - pareto law - 30% of efforts to reach 70% of scientific computing skills
     * software running in students environment
     * use of live coding
-    * collaborative note taking using [etherpad](http://etherpad.software-carpentry.org/proto204)
     * use of many forms of feedback (sticky notes, etherpad, surveys)
     * evidence-based teaching
 * show a sample webpage [Proto204](https://paris-swc.github.io/2016-05-24-proto204/)
