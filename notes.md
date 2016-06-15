@@ -27,8 +27,7 @@ Abstract:
     - repeat the same analysis by hand on tens of files and save the results in spreadsheet or word document.
     - copy files and block of code as a form of 're-use' and versioning.
     - trouble to collaborate, because of lack of means to share the code.
-        
-* Two day workshops introduced in 2012. The foundation was set up in 2014.
+* therefore SC focuses now on 2-day workshops (introduced in 2012) -- 30% of effort give 70% of scientific computing literacy
 
 * today SC focuses on best practices:
     - automation
@@ -37,27 +36,24 @@ Abstract:
     * collaboration and reproducibility
     * core lessons
 
-* since their conception SC workshops went through many iterations (all documented in [4])
+* The foundation was set up in 2014.
+
 * recently Data Carpentry was created whose mission is to help scientists manage and analyze their data
-* SC publications (lessons, peer-reviewed papers and evaluation reports)
+* SC publications (peer-reviewed papers and evaluation reports)
 
 ## Typical workshop (3 min):
-(I plan to show the webpage and explain a bit about the schedule, installation etc. However to keep it quick, I may just emphasise diferences from standard programming training classes)
+(I plan to show the webpage and explain a bit about the schedule, installation etc. However to keep it quick, I may just emphasise differences from standard programming training classes)
 
 * what is special about SC teaching method:
-    * teach basics for beginners - pareto law - 30% of efforts to reach 70% of scientific computing skills
     * software running in students environment
     * use of live coding
+    * demos are interspersed by demonstrations
+    * use sticky notes to call a helper
     * use of many forms of feedback (sticky notes, etherpad, surveys)
-    * evidence-based teaching
-* show a sample webpage [Proto204](https://paris-swc.github.io/2016-05-24-proto204/)
-* why live coding!:
-    - writing code and explaining it at the same time is more convincing than showing code on slides
-    - instructors more flexible and responsive to questions from audience
-    - students learn from instructors’ mistakes
-    - it slows instructors down
+    * evidence-based teaching -- SC surveys
+
 * instructors training and certification:
-    - 2-day online (with co-localised groups) or onsite 
+    * required for all certified instructors
     - focus on evidence-based teaching strategies
     - improve the sense of community
 
@@ -65,65 +61,43 @@ Abstract:
 ## SC as an open source community - similarities / differences (3 min):
 (Related to Goal 3. To keep it short I will put the main characteristic of OSS communities on a slide and just explain how they relate to SC)
 
-* what characterises OSS community like scikit-learn: 
-    - [Common Characteristics of an Open Source Community](https://blogs.s-osg.org/common-characteristics-of-an-open-source-community/) by Ben Lyold Pearson
-    - generally inclusive by default, and are exclusively transparent
-    - distributed and divers contributors
-    - differing motivations (commercial, academic and "philantropic")
-    - working together on a open source "product" (software)
-    - communicating through internet channels (mailing lists, issue trackers, chats etc.)
-    - Self-Organizing Meritocracy: 
-      > Reputation in an open source community is gained by making valuable contributions to the project, and leadership in these communities must be earned through experience. 
-    - scalable hierarchy
-      > As the project grows, it is common for it to be divided into subsystems and for the releases to become more organized and standardized. 
-    
-* SC Similarties:
-    - members of SC community share goals (make the world a better place) and interests (computation and teaching)
-    * SC instructors around the world
-    * also contributions from non-instructors (helpers, programmers, educators, etc.)
-    - centered around collaboratively edited, reusable content - our lessons:
-        + CreativeCommons-licensed - can be re-used for non-SC workshops
-        + lesson templates for new lessons
-        + example — Python lesson: 89 contributors, ~1000 commits, 120 PRs merged, 200 forks, 4000 lines of lesson content
-        + instructors are encouraged to adapt the materials for their needs and contribute back their changes
-    - communication: blog, mailing lists, Github issue tracker, videoconferences, in-person meetings
-    - hierachical (local SC community, global community, advisory boards etc.)
-    * shares some of its weaknesses (importance of project leads, lengthy discussions about "technicalities")
+- [Common Characteristics of an Open Source Community](https://blogs.s-osg.org/common-characteristics-of-an-open-source-community/) by Ben Lyold Pearson
+* members of SC community share goals (make the world a better place) and interests (computation and teaching)
+* SC instructors around the world
+* also contributions from non-instructors (helpers, programmers, educators, etc.)
+* centered around collaboratively edited, reusable lessons:
+    - CreativeCommons-licensed - can be re-used for non-SC workshops
+    - lesson templates for new lessons
+    - example — Python lesson: 89 contributors, ~1000 commits, 120 PRs merged, 200 forks, 4000 lines of lesson content
+    + instructors are encouraged to adapt the materials for their needs and contribute back their changes
+* communication: blog, mailing lists, Github issue tracker, videoconferences, in-person meetings
+* structured organisation (local SC community, global community, advisory boards etc.)
+* shares some of its weaknesses: lengthy discussions about "technicalities"
 
-* SC Differences:
-    - teaching as enacted skill and as such it requires physical presence (video recordings are tested):
-        > To make a musical analogy, the lesson plan, slides, and assignments are only the score; what matters most is how it's performed
+* teaching as performance art:
+    - everyone teaches differently the same lesson
+    - needs constant feedback from others
       
-
 ## Locally (4 min)
-(Camille is working on some graphs from previous workshops. I would like to add some "testimonials" from the feedback channels. Send me anything you liked in particular in what the participants said/wrote).
 
-* who are we? (introduce Paris-based instructors and helpers)
-    - with photos (from Our team page [1]), insitution logos
-    - 6 instructors recently certified, 3 instructors active since SC conception (2012?)
-
+* introduce Paris-based instructors
+* map of workshops
+* basic stats on workshops, instructors, 6 instructors recently certified,
+* all of our workshops filled within few hours after opening of registration
+* BBBQ this week and new SC-style lessons
 * what has been already achieved? 
-    - workshops sites (7 SC and SC-based workshops, including pre-2015 workshop and instructor training) - 
-    - all of our workshops filled within few hours after opening of registration
-    - Bug BBQ this week with numerous contributions to the core lessons
-    - two new SC-style lessons created (and waiting for contributors)
-        
-* to show on slides:
-    - infographics with stats (number of participants, gender distribution, field distribution, stage of career, how many said that the workshop was useful and would recommend it to friends?)
-    - sample feedback, results of surveys, testimonials
+* infographics: field, career and gender
+* sample feedback, results of surveys, testimonials
         + “I had the chance to work with some of the participants after the workshop. Although, I do see that their knowledge and confidence with bash, git or python improved, after the course they would go back to their original habits of running their analysis manually and keeping versions of their files in directories (or commenting un-used/experimental code). There is still much work to do to enhance the retention of the information and putting it in practice”
 
 * problems:
     - different levels of participants
-    - some lessons might be motivated with better (domain-specific) examples,
+    - some lessons might be motivated with better (domain-specific) examples
 
 * how to join us? how to organise a workshop? 
     * join our mailing list, GH organisation
-    - two ways to organise workshop -- self-organised or SCF-organised (SCF looks for instructions)
-    - ask me about our conditions:
-        + find location for about 20-40 students (some recipes for good location are available at Software Carpentry website [1])
-        + organise coffee breaks and lunch for students and instructors (including funding for coffee; if there are good lunch options around, lunch funding for students is optional)
-        + handle the registrations (at least half of the places should be open to public).
+    - two ways to organise workshop -- self-organised or SCF-organised (SCF looks for instructors)
+    - ask me about our conditions
 
 * acknowledge supporting institutions (hosts, sponsors, instructors’ affiliations, funding agencies)
 
