@@ -50,7 +50,7 @@ Abstract:
     * demos are interspersed by demonstrations
     * use sticky notes to call a helper
     * use of many forms of feedback (sticky notes, etherpad, surveys)
-    * evidence-based teaching -- SC surveys
+    * evidence-based teaching -- SC surveys and publications
 
 * instructors training and certification:
     * required for all certified instructors
@@ -63,8 +63,8 @@ Abstract:
 
 - [Common Characteristics of an Open Source Community](https://blogs.s-osg.org/common-characteristics-of-an-open-source-community/) by Ben Lyold Pearson
 * members of SC community share goals (make the world a better place) and interests (computation and teaching)
+* very inclusive - no need to be a programmer
 * SC instructors around the world
-* also contributions from non-instructors (helpers, programmers, educators, etc.)
 * centered around collaboratively edited, reusable lessons:
     - CreativeCommons-licensed - can be re-used for non-SC workshops
     - lesson templates for new lessons
@@ -72,11 +72,12 @@ Abstract:
     + instructors are encouraged to adapt the materials for their needs and contribute back their changes
 * communication: blog, mailing lists, Github issue tracker, videoconferences, in-person meetings
 * structured organisation (local SC community, global community, advisory boards etc.)
-* shares some of its weaknesses: lengthy discussions about "technicalities"
 
 * teaching as performance art:
     - everyone teaches differently the same lesson
     - needs constant feedback from others
+
+* shares some of its weaknesses: lengthy discussions about "technicalities"
       
 ## Locally (4 min)
 
