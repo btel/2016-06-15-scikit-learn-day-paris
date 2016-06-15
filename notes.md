@@ -70,12 +70,12 @@ Abstract:
     - lesson templates for new lessons
     - example — Python lesson: 89 contributors, ~1000 commits, 120 PRs merged, 200 forks, 4000 lines of lesson content
     + instructors are encouraged to adapt the materials for their needs and contribute back their changes
-* communication: blog, mailing lists, Github issue tracker, videoconferences, in-person meetings
-* structured organisation (local SC community, global community, advisory boards etc.)
-
 * teaching as performance art:
     - everyone teaches differently the same lesson
     - needs constant feedback from others
+* communication: blog, mailing lists, Github issue tracker, videoconferences, in-person meetings
+* structured organisation (local SC community, global community, advisory boards etc.)
+
 
 * shares some of its weaknesses: lengthy discussions about "technicalities"
       
